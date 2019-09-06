@@ -79,7 +79,9 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "Vivado Design Suite",
+        "Kali Linux"
       ]
     }
   ],
@@ -116,8 +118,8 @@
       "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
+        "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
       ]
     }
   ],
