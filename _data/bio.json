@@ -39,19 +39,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Operating Systems",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Linux",
+        "macOS",
+        "Windows 10"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Computer Hardware",
       "keywords": [
+        "Digital Systems",
+        "FPGA"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
