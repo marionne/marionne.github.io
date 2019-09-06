@@ -109,20 +109,20 @@
         "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
         "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
       ]
-    }//,
-//    {
-//      "company": "UH Information Technology Services",
-//      "position": "Help Desk Consultant",
-//      "website": "http://www.hawaii.edu/its/",
-//      "startDate": "2015-01-01",
- //     "endDate": "2016-03-15",
- //     "summary": "",
-   //   "highlights": [
-     //   "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
-       // "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
-      //]
-    //} 
-  ]//,
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "",
+      "highlights": [
+        "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
+        "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
+      ]
+    } 
+  ],
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
