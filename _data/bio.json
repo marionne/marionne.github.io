@@ -2,7 +2,7 @@
   "basics": {
     "name": "Marionne Millan (Casipit)",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/marionnesphoto.jpg",
+    "picture": "https://techfolios.github.io/images/marionnesphoto.jpg",
     "email": "marionne@hawaii.edu",
     "phone": "917-860-8840",
     "website": "https://marionne.github.io",
@@ -108,7 +108,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Assist students in laboratory protocols for the Digital Systems and Computer Design course. ",
+        "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
         "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
       ],
   "references": [
