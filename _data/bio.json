@@ -69,7 +69,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "SystemVerilog"
       ]
     },
     {
@@ -79,8 +79,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
