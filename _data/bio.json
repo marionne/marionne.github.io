@@ -41,8 +41,9 @@
     {
       "name": "Operating Systems",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Linux",
+        "macOS",
+        "Windows"
       ]
     },
     {
