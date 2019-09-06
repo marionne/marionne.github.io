@@ -106,10 +106,10 @@
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
+        "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
       ]
-    },
+    }/*,
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
@@ -121,7 +121,7 @@
         "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
         "Instruct students in lab safety, circuit assembly, and implementation of microcontroller and FPGA design"
       ]
-    }
+    } */
   ],
   "volunteer": [
     {
