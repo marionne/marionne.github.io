@@ -14,10 +14,8 @@ labels:
 summary: PONG-based game on an FPGA
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pong.png">
 
 I implemented a game based on the classic game of PONG on a Basys3 FPGA board using the hardware description language (HDL), SystemVerilog.
 
 A demo is available upon request.
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
