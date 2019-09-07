@@ -13,7 +13,7 @@ body {
 
 // Default background for home
 .home {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/50/Vincent_van_Gogh_-_Almond_Blossom_-_VGM_F671.jpg");
+  backgroundImage: `url(${require('../images/almondblossoms.jpg')})` 
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
