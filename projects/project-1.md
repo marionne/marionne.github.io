@@ -14,7 +14,7 @@ labels:
 summary: Memory Game on an FPGA
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui large right floated rounded image" src="../images/yeah.png">
 
 I implemented a memory game that is heavily based on the game SIMON on the Basys3 FPGA board using the hardware description language (HDL), SystemVerilog.
 
