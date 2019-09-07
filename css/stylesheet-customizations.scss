@@ -12,11 +12,13 @@ body {
 
 // Default background for home
 .home {
-  background-image: `url(${require('../images/background.jpg')})` 
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; 
+    height: 100%; 
+    margin-top: 0px;
+    background-image: url(/images/background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 
 // Default menubar color
