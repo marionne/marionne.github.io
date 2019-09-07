@@ -20,5 +20,4 @@ A project that I continue to volunteer for, my wonderul team assigned to me the 
 
 
 Project Repo: <a href="https://github.com/marionne/uav-classifier"><i class="large github icon "></i>marionne/uav-classifier/</a>
-
 Matt's Project Repo (this is more up-to-date): <a href="https://github.com/saharama/UAVClassifier"><i class="large github icon "></i>saharama/UAVClassifier/</a>
