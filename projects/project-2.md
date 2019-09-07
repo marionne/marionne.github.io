@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wallball.png
+image: images/wallball.jpg
 title: One-Player Wallball 
 permalink: projects/oneplayerwallball
 # All dates must be YYYY-MM-DD format!
