@@ -3,17 +3,18 @@
 ---
 @charset "utf-8";
 
-// Put your custom CSS here if you want to override the defaults.
-// Here are some common customizations for colors
+// Default CSS.
+// Don't edit this file.  Put your changes in stylesheet-customizations.scss
 
-// Customize the background color
- body {
-    background-color: rgb(178,114,117);
- }
+// Default background color
+body {
+  background-color: rgb(178,114,117);
+}
 
+// Default background for home
 .home {
-  background-image: url("{{ site.baseurl }}/images/background.png");
-  height: 100%;
+  background-image: url("{{ site.baseurl }}/images/background.jpg");
+  height: 50%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
@@ -26,5 +27,18 @@
 
 // Default home page icon color
 .icon-color {
-  color: rgb(255,148,184)
+  color: rgb(255,148,184);
+}
+
+
+// Prefer space between list items in screen mode.
+.list-padding {
+  ul li { padding: 5px 0px; }
+  ol li { padding: 5px 0px; }
+}
+
+// This class is used in the prebuilt bio themes.
+.no-bottom {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
 }
