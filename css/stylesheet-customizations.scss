@@ -11,8 +11,7 @@ body {
 }
 
 .home {
-  background-image: url("{{ site.baseurl }}/images/background.jpg");
-  height: 100%;
+  background-image: url("background: url('../images/background.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
