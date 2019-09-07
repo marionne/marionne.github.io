@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: drone0.png
-title: Memory 
+title: Network Profiling and Protocol Reverse Engineering 
 permalink: projects/dronesec
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-01
