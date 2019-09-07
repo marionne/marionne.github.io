@@ -14,7 +14,7 @@ labels:
 summary: Memory Game on an FPGA
 ---
 
-<img class="ui medium right floated rounded image" src="../images/drone0.png">
+<img class="ui medium right floated rounded image" src="../images/drone0.jpg">
 
 A project that I continue to volunteer for, my wonderul team assigned to me the task of modifying preexisting Python2 code and updating the syntax to reflect Python3's. I learned how to capture packets from a drone using Kali Linux, as well as how to parse through a JSON file that details packet information and use the NumPy and the Matplotlib librares to arrange and plot packet data.
 
