@@ -8,6 +8,13 @@
 // Customize the background color
 body {
   // background-color: #f2f2f2;;
+  height: 100%; 
+    margin-top: 0px;
+    background-image: url(/images/background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
 }
 
 // Customize the menubar color
