@@ -1,14 +1,15 @@
 ---
 # Provide front matter so Jekyll processes this file as SASS.
 ---
+@charset "utf-8";
 
 // Put your custom CSS here if you want to override the defaults.
 // Here are some common customizations for colors
 
 // Customize the background color
-// body {
-//    background-color: rgb(201,223,255);
-// }
+ body {
+    background-color: rgb(201,223,255);
+ }
 
 .home {
   background-image: url("{{ site.baseurl }}/images/almondblossomsjpg");
@@ -20,7 +21,7 @@
 
 // Default menubar color
 .ui.menu {
-  background: rgb(201,223,255);
+  background: rgb(141,65,64);
 }
 
 // Default home page icon color
