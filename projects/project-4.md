@@ -11,7 +11,7 @@ labels:
   - Digital Design
   - HDL
   - SystemVerilog
-summary: Memory Game on an FPGA
+summary: Drone "Fingerprinting" to address network insecurity of UASs
 ---
 
 <img class="ui medium right floated rounded image" src="../images/drone0.jpg">
