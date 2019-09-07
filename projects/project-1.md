@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/yeah.png
 title: Bitter Memories 
 permalink: projects/BitterMemories
 # All dates must be YYYY-MM-DD format!
