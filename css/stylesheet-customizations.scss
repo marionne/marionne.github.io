@@ -10,15 +10,6 @@ body {
   background-color: rgb(178,114,117);
 }
 
-// Default background for home
-.home {
-  background-image: url("{{ site.baseurl }}/images/almondblossomsjpg");
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; 
-}
-
 // Default menubar color
 .ui.menu {
   background: rgb(178,114,117);
