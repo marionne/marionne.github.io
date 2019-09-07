@@ -80,6 +80,7 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
+        "clang++",
         "Vivado Design Suite",
         "Kali Linux"
       ]
@@ -87,7 +88,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2017-08-01",
