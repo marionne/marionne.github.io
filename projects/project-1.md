@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Memory 
-permalink: projects/vacay
+title: Bitter Memories 
+permalink: projects/BitterMemories
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-01
 labels:
