@@ -7,10 +7,10 @@ permalink: projects/dronesec
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-01
 labels:
-  - FPGA
-  - Digital Design
-  - HDL
-  - SystemVerilog
+  - Drones
+  - Kali Linux
+  - Packet Sniffing
+  - Data Visualization
 summary: Drone "Fingerprinting" to address network insecurity of UASs
 ---
 
