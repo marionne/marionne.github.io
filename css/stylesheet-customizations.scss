@@ -7,11 +7,12 @@
 
 // Customize the background color
 body {
-   //background-color: rgb(255,148,184);
+   background-color: rgb(255,212,233);
 }
 
 .home {
-  background-image: url("background: url('../images/almondblossoms.jpg");
+  background-image: url("{{ site.baseurl }}/images/almondblossomsjpg");
+  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; 
