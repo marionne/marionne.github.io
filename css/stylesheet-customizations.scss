@@ -18,13 +18,24 @@ body {
   background-size: cover; 
 }
 
-// Customize the menubar color
+// Default menubar color
 .ui.menu {
-  background: rgb(255,148,184);
+  background: rgb(177, 236, 201);
 }
 
-// Customize the home page icon colors
-.icon-color { 
-   color: rgb(255,148,184);
+// Default home page icon color
+.icon-color {
+  color: rgb(55, 121, 70);
 }
 
+
+// Prefer space between list items in screen mode.
+.list-padding {
+  ul li { padding: 5px 0px; }
+  ol li { padding: 5px 0px; }
+}
+
+// This class is used in the prebuilt bio themes.
+.no-bottom {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
