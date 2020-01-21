@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Marionne Millan (Casipit)",
+    "name": "Marionne Casipit",
     "label": "Student",
     "picture": "https://marionne.github.io/images/marionnesphoto.jpg",
     "email": "marionne@hawaii.edu",
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "MarionneMillan",
         "url": "http://linkedin.com/in/MarionneMillan"
-      },
-      {
-        "network": "twitter",
-        "username": "MarionneMillan",
-        "url": "http://twitter.com/MarionneMillan"
-      },
-      {
-        "network": "instagram",
-        "username": "marionne",
-        "url": "http://instagram.com/marionne"
       }
     ]
   },
@@ -103,8 +93,8 @@
       "company": "University of Hawaii at Manoa",
       "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2019-08-01",
+      "endDate": "2019-12-22",
       "summary": "TA for Digital Systems and Computer Design Lab (EE 361L)",
       "highlights": [
         "Assist students in laboratory protocols for the Digital Systems and Computer Design course; ",
