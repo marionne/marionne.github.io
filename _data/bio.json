@@ -6,7 +6,7 @@
     "email": "marionne@hawaii.edu",
     "phone": "917-860-8840",
     "website": "https://marionne.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
+    "summary": "I'm currently pursuing my Bachelor's in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Operating Systems",
+      "name": "Computer Architecture",
       "keywords": [
         "Linux",
         "macOS",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Embedded Systems",
       "keywords": [
       ]
     }
