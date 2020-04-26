@@ -19,7 +19,7 @@ Ethics in the philosophical sense can be defined as a system of moral principles
 Promoting responsible conduct is important in the development of any project that is catered for public use, including in software engineering where something as seemingly harmless as an app with a cute graphical UI is deployed. But what ethical issues could arise in such an app? In foundations, we the second case study, Errand Whiz, presents us with the scenarario in which a user downloads a third-party app that collects and sells their private information unbeknownst to them, for the purpose of targeted advertising. Ethical considerations in software engineering seem to be prevalent with violations of privacy, where information collected from consumers can be used against the same consumers in an attempt to influence their decision-making.
 
 
-<img class="ui large left floated image" src="../images/shame.png">
+<img class="ui medium left floated image" src="../images/shame.png">
 
 # Case Study: The Code I'm Still Ashamed Of
 
