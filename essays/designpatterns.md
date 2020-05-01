@@ -10,9 +10,11 @@ labels:
 
 ## Fish-flavored Cookies... Yum!
 
-<img class="ui medium right floated image" src="../images/flounder.jpg">
+<img class="ui medium left floated image" src="../images/fishcookies.jpg">
 
 One of my hobbies is baking, and one of my favorite things to bake are chocolate chip cookies.  I know, I know! How basic is that? But did you know that there's a whole science to it? For example, adding too much flour will make your cookies extremely dry and puffy-looking; and adding too much butter will cause your cookies to become spread out and oily; and using a Silpat baking mat that you use to cook every other dish (like that baked salmon from the other night) can give your cookies a fishy flavor--even though you've scrubbed and soaped it and ran it through the dishwasher twice! And so you throw them away and end up serving those pre-packaged Little Debbie cookies to your friends and family at the church potluck. How embarrassing. From the standard ingredient eggs-flour-butter ratio to the type of material you bake your cookies on, cookie-making is a lot like chemistry, and let's be honest: common sense. 
+
+<img class="ui medium right floated image" src="../images/flounder.jpg">
 
 ## Cookie Cutters Are Design Patterns Too
 
@@ -20,7 +22,7 @@ Design patterns describe recurring problems in the design environment that, over
 
 Like a recipe for a cookie, design patterns lets a person create or build something by following an approach that has already been proven to work. A person who has never baked a cookie before might first follow a recipe from a cookbook, and as they get more experience with ingredient ratios and their kitchen, they might decide to be a little more creative and put some walnuts in their recipe, and make a chocolate chip walnut cookie. Similarly, a person who has never coded but has an idea for an app might try to follow a tutorial on creating an app, and from there they can get to the point where they're comfortable enough to implement their own app idea, and go through the process enough times to finally break free from the design pattern and assume creative reign in their projects.
 
-<img class="ui medium left floated image" src="../images/cookiecutter.png">
+<img class="ui medium left floated image" src="../images/milkandcookies.jpg">
 
 # My Coding Cookbook 
 
