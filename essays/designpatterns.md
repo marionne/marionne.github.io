@@ -24,10 +24,8 @@ Like a recipe for a cookie, design patterns lets a person create or build someth
 
 <img class="ui medium left floated image" src="../images/milkandcookies.jpg">
 
-# My Coding Cookbook 
+## My Coding Cookbook 
 
 In my opinion, the ICS 314 course is a perfect example of how I have used Design Patterns in my code. Throughout the course, we were taught how to use certain Frameworks like Semantic UI and more recently, Meteor. Each activity in its respective module in the course has given us a thorough explanations of each step in the process to achieve a goal.
-
-# Conclusion
 
 While design patterns seem to be a promising approach to the software engineering design process, it merely serves as a guide to follow until you're comfortable enough to do things on your own. Its applications surpass software engineering and 
