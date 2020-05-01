@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Design Patterns"
-date: 2020-04-30
+date: 2020-04-24
 labels:
   - Design Patterns
   - Creativity
@@ -18,18 +18,14 @@ One of my hobbies is baking, and one of my favorite things to bake are chocolate
 
 Design patterns describe recurring problems in the design environment that, over time, has been picked apart to reveal the core issue and provide a solution that will work time and time again for every variant of that problem. 
 
-#
-
 Like a recipe for a cookie, design patterns lets a person create or build something by following an approach that has already been proven to work. A person who has never baked a cookie before might first follow a recipe from a cookbook, and as they get more experience with ingredient ratios and their kitchen, they might decide to be a little more creative and put some walnuts in their recipe, and make a chocolate chip walnut cookie. Similarly, a person who has never coded but has an idea for an app might try to follow a tutorial on creating an app, and from there they can get to the point where they're comfortable enough to implement their own app idea, and go through the process enough times to finally break free from the design pattern and assume creative reign in their projects.
 
-<img class="ui medium left floated image" src="../images/shame.png">
+<img class="ui medium left floated image" src="../images/cookiecutter.png">
 
 # My Coding Cookbook 
 
-In my opnion, the ICS 314 course is a perfect example of how I have used Design Patterns in my code. Throughout the course, we were taught how to use certain Frameworks like Semantic UI and more recently, Meteor. Each module in the course, with its respective activities, gives us a thorough explanation of each step in the process.
-
-<img class="ui small right floated image" src="../images/codeofconduct.png">
+In my opinion, the ICS 314 course is a perfect example of how I have used Design Patterns in my code. Throughout the course, we were taught how to use certain Frameworks like Semantic UI and more recently, Meteor. Each activity in its respective module in the course has given us a thorough explanations of each step in the process to achieve a goal.
 
 # Conclusion
 
-While design patterns seem to be a promising approach to the software engineering design process, it merely serves as a guide to follow until you're comfortable enough
+While design patterns seem to be a promising approach to the software engineering design process, it merely serves as a guide to follow until you're comfortable enough to do things on your own. Its applications surpass software engineering and 
