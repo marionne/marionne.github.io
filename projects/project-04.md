@@ -14,7 +14,7 @@ summary: Group web application for a study spot locator built with Semantic UI R
 ---
 
 ## Cram Connect: Overview
-<img class="ui medium right floated rounded image" src="../images/cc-logo.png">
+<img class="ui large center floated rounded image" src="../images/cc-logo.png">
 Cram Connect is a web application that helps college students find their perfect place to study near the UH Manoa campus. Listed below are the site functionalities:
 * Users can add new locations, and review and rate these locations.
 * Users can discover new random locations.
