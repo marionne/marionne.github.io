@@ -28,9 +28,9 @@ Our group divided the work using issue driven project management, which helped u
 
 The tasks I was assigned were to create the landing, sign-in, add location pages and create the favorites page.
 
-<img class="ui medium left floated rounded image" src="../images/cc-landing.jpg">
-<img class="ui medium left floated rounded image" src="../images/cc-signin.JPG">
-<img class="ui medium left floated rounded image" src="../images/cc-addloc.png">
+<img class="ui medium center floated rounded image" src="../images/cc-landing.jpg">
+<img class="ui medium center floated rounded image" src="../images/cc-signin.JPG">
+<img class="ui medium center floated rounded image" src="../images/cc-addloc.png">
 
 
 <a href="https://cram-connect.github.io/"><i class="large github icon"></i>View the Cram Connect Project Page</a>
